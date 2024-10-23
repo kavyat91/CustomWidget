@@ -178,7 +178,7 @@ if (preferredDateInput) {
             var quickReply2 = document.getElementById('quickReply2').value;
             var quickReply3 = document.getElementById('quickReply3').value;
 
-            var text1=`Please select Preferrable Time Slot for ${formattedDate}`
+            var text1=`Please select your preferred time slot for ${formattedDate}`
 
             var data = {
                 json:{
